@@ -1,0 +1,6 @@
+framework module Pods_RNTheMayonTour {
+  umbrella header "Pods-RNTheMayonTour-umbrella.h"
+
+  export *
+  module * { export * }
+}
